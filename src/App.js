@@ -21,16 +21,16 @@ function App() {
       <div>
         <Navbar cart={cart} />
         <Routes>
-          <Route path="/" exact element={<Home />} />
+          <Route path="/Burgeros" exact element={<Home />} />
           <Route
-            path="/menu"
+            path="/Burgeros/menu"
             exact
             element={<Menu cart={cart} setCart={setCart} />}
           />
-          <Route path="/about" exact element={<About />} />
-          <Route path="/contact" exact element={<Contact />} />
+          <Route path="/Burgeros/about" exact element={<About />} />
+          <Route path="/Burgeros/contact" exact element={<Contact />} />
           <Route
-            path="/cart"
+            path="/Burgeros/cart"
             exact
             element={<Cart cart={cart} emptyCart={emptyCart} />}
           />
