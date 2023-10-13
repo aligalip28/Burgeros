@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Burgeros/static/css/main.791d9d93.css",
+    "main.js": "/Burgeros/static/js/main.feed41a3.js",
+    "static/js/787.48b80222.chunk.js": "/Burgeros/static/js/787.48b80222.chunk.js",
+    "static/media/menu.jpg": "/Burgeros/static/media/menu.cae54587edd34eb3a9c9.jpg",
+    "static/media/Contact.jpg": "/Burgeros/static/media/Contact.5761a9645c9f82a936b5.jpg",
+    "static/media/About.jpg": "/Burgeros/static/media/About.cf72bdf2a9c40ca9ac6e.jpg",
+    "static/media/HomeHero.jpg": "/Burgeros/static/media/HomeHero.98617eb48cff4013baa9.jpg",
+    "static/media/burger.1.png": "/Burgeros/static/media/burger.1.c90b17f8aa080eb73edf.png",
+    "static/media/burger.jpg": "/Burgeros/static/media/burger.7c6111553a815cdb7561.jpg",
+    "static/media/burger5.png": "/Burgeros/static/media/burger5.7c6111553a815cdb7561.png",
+    "static/media/burger3.png": "/Burgeros/static/media/burger3.3ee5beaf821cdd025f09.png",
+    "static/media/burger4.png": "/Burgeros/static/media/burger4.3ee5beaf821cdd025f09.png",
+    "static/media/burger2.png": "/Burgeros/static/media/burger2.f92230c9c544ac92b09e.png",
+    "static/media/Logo.svg": "/Burgeros/static/media/Logo.033b5da4220b1198afe50443c21f6917.svg",
+    "index.html": "/Burgeros/index.html",
+    "main.791d9d93.css.map": "/Burgeros/static/css/main.791d9d93.css.map",
+    "main.feed41a3.js.map": "/Burgeros/static/js/main.feed41a3.js.map",
+    "787.48b80222.chunk.js.map": "/Burgeros/static/js/787.48b80222.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.791d9d93.css",
+    "static/js/main.feed41a3.js"
+  ]
+}
