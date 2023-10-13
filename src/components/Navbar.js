@@ -7,10 +7,10 @@ import { FaShoppingBasket, FaUser } from "react-icons/fa";
 
 function Navbar({ cart }) {
   const navigation = [
-    { name: "Anasayfa", href: "/", current: true },
-    { name: "Menü", href: "/menu", current: false },
-    { name: "Hakkımızda", href: "/about", current: false },
-    { name: "İletişim", href: "/contact", current: false },
+    { name: "Anasayfa", href: "/Burgeros/", current: true },
+    { name: "Menü", href: "/Burgeros/menu", current: false },
+    { name: "Hakkımızda", href: "/Burgeros/about", current: false },
+    { name: "İletişim", href: "/Burgeros/contact", current: false },
   ];
 
   function classNames(...classes) {
